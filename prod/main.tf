@@ -12,7 +12,7 @@ provider "aws" {
   default_tags {
     tags = {
       Owner = "Paulo Henrique Farinelli Leone"
-      Env   = "Producaoo"
+      Env   = "Producao"
       Class = "CLC10"
     }
   }
